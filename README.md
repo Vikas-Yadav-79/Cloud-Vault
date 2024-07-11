@@ -1,5 +1,6 @@
-#CLOUD-VAULT
+## CLOUD-VAULT <br/>
 Designed and implemented Cloud-Vault, a dynamic web application leveraging AWS services like S3 for secure file storage and Polly for text-to-speech conversion. Developed using React on the frontend and Node.js with Express on the backend, the project facilitates seamless file uploads and sharing via generated URLs, ensuring data security and accessibility.
+<hr/>
 
 ![image](https://github.com/Vikas-Yadav-79/Cloud-Vault/assets/121033913/500a2067-3c09-4394-b743-52540c19b3a9)
 
